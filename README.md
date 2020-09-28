@@ -1,5 +1,5 @@
 # AuthApp
-<h3> Simple Flutter Ui App </h3>
+<h3> Simple Flutter Ui </h3>
 
 <div align="center">
 <img src="https://github.com/AmirMohammadKargar/AuthApp-Flutter/blob/master/ScreenShots/1.PNG" width="21%">
