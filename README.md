@@ -1,6 +1,17 @@
 # AuthApp
+<h3> Simple Flutter Ui App </h3>
 
-A new Flutter project.
+<div align="center">
+<img src="https://github.com/AmirMohammadKargar/AuthApp-Flutter/blob/master/ScreenShots/1.PNG" width="21%">
+<img src="https://github.com/AmirMohammadKargar/AuthApp-Flutter/blob/master/ScreenShots/2.PNG" width="22%" >
+<img src="https://github.com/AmirMohammadKargar/AuthApp-Flutter/blob/master/ScreenShots/3.PNG" width="22.5%">
+</div>
+
+<h4>To run app</h4>
+
+```
+flutter run
+```
 
 ## Getting Started
 
